@@ -9,7 +9,7 @@
 
 - Developers have to replicate any two.
 
-- All the asstes needed to complete task can be found in assets directory.
+- All the assets needed to complete task can be found in assets directory.
 
 ## Instructions
 
